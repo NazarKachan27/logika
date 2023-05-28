@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+.one {
+    border-bottom: 5px solid #000000;
+}
+
+.two {
+        border-bottom: 5px solid #000000;
+}
+
+.three {
+    border-bottom: 5px solid #000000;
+}
+
+.photo {
+width: 700px;
+height: 90px;
+left: 0px;
+top: 0px;
+}
+
+nav {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: Roboto;
+}
+
+.photo1 {
+    border-left: dotted 10px;
+    padding: 5px;
+}
+
+h3 {
+    text-align: center;
+    border: solid 1px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+footer {
+    background-color: #000000;
+    border: solid 1px black;
+}
+
+h4 {
+    background-color: white;
+}
